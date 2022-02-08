@@ -1,12 +1,11 @@
 ## Welcome to My Humble Abode!
 
-Thank you for stopping in today. I will be taking you on a tour around my dream house. Sit tight, and enjoy the view from your computer. I look forward to giving you this tour. While you're here feel free to relax and unwind. The view is gorgeous! I hope you enjoy these images as much as I enjoyed them. Take notes on any updates that you feel would look great in your own home. I'll see you at the BOTTOM. Once again, thanks and enjoy. 
+Thank you for stopping in today. I will be taking you on a tour around my dream house. Sit tight, and enjoy the view from your computer. I look forward to giving you this tour. While you're here feel free to relax and unwind. The view is gorgeous! I hope you enjoy these images as much as I enjoyed them. Take notes on any updates that you feel would look great in your own home. I'll see you at the **BOTTOM**. Once again, thanks and enjoy. 
 
-You can use the [editor on GitHub](https://github.com/amirandersonjones/amirandersonjones.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Interior Design
+
+Hello again, here are a few photos for your enjoyment. These are interior photos.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
